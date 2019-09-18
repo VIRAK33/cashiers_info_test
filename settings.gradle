@@ -1,0 +1,2 @@
+include ':app', ':cashier_information'
+rootProject.name='cashiers_info_test'
